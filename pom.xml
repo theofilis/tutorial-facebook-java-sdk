@@ -32,4 +32,5 @@
       <version>[1.1,)</version>
     </dependency>
   </dependencies>
+  <description>This program can fetch the data of yours friend.</description>
 </project>
