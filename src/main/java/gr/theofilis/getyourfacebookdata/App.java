@@ -95,7 +95,7 @@ public class App {
             out.print("N/A" + ((last) ? "" : ", "));
         } else {
             for (NamedFacebookType value : values) {
-                out.print(value.getName().replaceAll("\n", "").replaceAll("\r", "") + " ");
+                out.print(value.getName().replaceAll("\n", "").replaceAll("\r", "").replaceAll(" ", "") + " ");
             }
             out.print(((last) ? "" : ", "));
         }
