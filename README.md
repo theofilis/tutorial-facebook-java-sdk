@@ -27,7 +27,13 @@ This program can fetch the data of yours friend.
 22. relationship_status
 23. religion
 
-# Requirements
+## How to use
+
+```
+  java App -dAccess TOKEN filename.csv
+```
+
+## Requirements
 
 1. [restfb](http://restfb.com/) RestFB is a simple and flexible Facebook Graph API and Old REST API client written in Java. It is open source software released under the terms of the MIT License.
 2. [commons-cli](http://commons.apache.org/proper/commons-cli/index.html) The Apache Commons CLI library provides an API for parsing command line options passed to programs. It's also able to print help messages detailing the options available for a command line tool.
