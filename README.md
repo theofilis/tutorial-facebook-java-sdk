@@ -1,6 +1,6 @@
-Get Your Facebook Friend Data
+Get Your Facebook Friend Data [![Build Status](https://drone.io/github.com/theofilis/GetYourFacebookFriendData/status.png)](https://drone.io/github.com/theofilis/GetYourFacebookFriendData/latest) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/theofilis/getyourfacebookfrienddata/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 =============================
-[![Build Status](https://drone.io/github.com/theofilis/GetYourFacebookFriendData/status.png)](https://drone.io/github.com/theofilis/GetYourFacebookFriendData/latest)
+
 
 This program can fetch the data of yours friend.
 
@@ -39,6 +39,4 @@ This program can fetch the data of yours friend.
 1. [restfb](http://restfb.com/) RestFB is a simple and flexible Facebook Graph API and Old REST API client written in Java. It is open source software released under the terms of the MIT License.
 2. [commons-cli](http://commons.apache.org/proper/commons-cli/index.html) The Apache Commons CLI library provides an API for parsing command line options passed to programs. It's also able to print help messages detailing the options available for a command line tool.
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/theofilis/getyourfacebookfrienddata/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
