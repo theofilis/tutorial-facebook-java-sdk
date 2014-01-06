@@ -1,5 +1,6 @@
 Get Your Facebook Friend Data
 =============================
+[![Build Status](https://drone.io/github.com/theofilis/GetYourFacebookFriendData/status.png)](https://drone.io/github.com/theofilis/GetYourFacebookFriendData/latest)
 
 This program can fetch the data of yours friend.
 
